@@ -1,5 +1,5 @@
-# SeleniumFindLocator
-Selenıum find Unique locator with Css Selector
+# SeleniumLocator
+
 1) İd ile --> htmltag#id ,#id ,
 div#ornek = div[id='ornek'] ikiside aynı işleve sahiptir.
 etiketi div,  id'si ornek olan elementleri bulmamızı sağlar.
